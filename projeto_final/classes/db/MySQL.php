@@ -5,7 +5,7 @@ class MySQL
 
 	const HOST = 'localhost';
 	const USER = 'phpmyadmin';
-	const PASS = 'FLPflp2020';
+	const PASS = '*****';
 	const DATABASE = 'projeto';
 
 	public function connectDB()
